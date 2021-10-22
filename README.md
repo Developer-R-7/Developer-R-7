@@ -1,4 +1,4 @@
-<img src="https://github.com/Developer-R-7/Developer-R-7/blob/main/banner.png">
+<img src="https://github.com/Developer-R-7/Developer-R-7/blob/main/banner-github.png">
 
 
 - 🔗My [`LinkedIn Profile`](https://www.linkedin.com/in/rushi-patel-5a5b951ba/)
