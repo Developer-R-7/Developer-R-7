@@ -9,6 +9,9 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Developer-R-7&show_icons=true&hide=issues&cache_seconds=86400&theme=nightowl">
 <br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-R-7&theme=nightowl">
+<br>
 
 # About Me 🤵
 - 🌱 I’m currently learning ***JavaScript and NodeJS***
