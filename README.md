@@ -13,6 +13,6 @@
 # About Me 🤵
 - 🌱 I’m currently learning ***JavaScript and NodeJS***
 - 👯 I’m looking to collaborate on ***Python API's Projects***
-- 💬 Ask me about Compettive Problems and 
+- 💬 Ask me about competitive Problems
 - ⚡ Fun fact: ***I work on weekends also***😂
 
