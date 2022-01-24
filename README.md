@@ -7,14 +7,18 @@
 
 # My GitHub Stats 🤩
 <br>
-<center><img src="https://github-readme-stats.vercel.app/api?username=Developer-R-7&show_icons=true&hide=issues&cache_seconds=86400&theme=nightowl"></center>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Developer-R-7&show_icons=true&hide=issues&cache_seconds=86400&theme=nightowl">
+</p>
 <br>
 <br>
-<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-R-7&theme=nightowl"></center>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-R-7&theme=nightowl" width="50%" height="15%">
+</p>
 <br>
 
 # About Me 🤵
-- 🌱 I’m currently learning ***JavaScript and NodeJS***
+- 🌱 I’m currently learning ***Tailwindcss and NodeJS***
 - 👯 I’m looking to collaborate on ***Python API's Projects***
 - 💬 Ask me about competitive Problems
 - ⚡ Fun fact: ***I work on weekends also***😂
