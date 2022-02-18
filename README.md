@@ -5,17 +5,18 @@
 - 📧Mail [`rushinasa06@gmail.com`](mailto:rushinasa06@gmail.com)
 <br>
 
-# My GitHub Stats 🤩
-<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Developer-R-7&show_icons=true&hide=issues&cache_seconds=86400&theme=nightowl">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Developer-R-7&theme=react-dark">
 </p>
-<br>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-R-7&theme=nightowl" width="50%" height="15%">
+
+
+<h2 align="center">Github Statistics </h2>
+
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-R-7&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/Developer-R-7)|[![Rushi's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Developer-R-7&theme=midnight-purple&hide_border=true)](https://github.com/Developer-R-7)
+|[![Rushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-R-7&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/Developer-R-7)|
 </p>
-<br>
 
 # About Me 🤵
 - 🌱 I’m currently learning ***Tailwindcss and NodeJS***
